@@ -35,8 +35,7 @@ char pop()
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/66dfa60e-46c2-496e-bcb1-9a2dd088063b)
-
+![Screenshot 2025-04-25 134541](https://github.com/user-attachments/assets/1d88a66b-d2cc-4d15-a6df-b99df7298cc6)
 
 ## Result:
 Thus the C program to perform push and pop operation of the stack in the infix to postfix conversion is implemented successfully.
